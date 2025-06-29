@@ -20,7 +20,7 @@ class Person:
         """
         Display the person's information.
         """
-        print("Here is person's info")
+        
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
         
