@@ -31,6 +31,7 @@ class Person:
         """
         self.age += 1
         print(f"Happy Birthday, {self.name}! You are now {self.age} years old.")
+        print("This is comment added by Gaurav")
 
     def update_name(self, new_name):
         """
