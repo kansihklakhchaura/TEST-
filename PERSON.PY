@@ -23,6 +23,7 @@ class Person:
         
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
+        print("displayed the info") #feature change
         # resolved the conflict
 
     def birthday(self):
