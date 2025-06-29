@@ -14,13 +14,16 @@ class Person:
         """
         self.name = name
         self.age = age
+        
 
     def display_info(self):
         """
         Display the person's information.
         """
+        print("Here is person's info")
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
+        
 
     def birthday(self):
         """
