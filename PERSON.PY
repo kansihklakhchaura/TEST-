@@ -20,15 +20,10 @@ class Person:
         """
         Display the person's information.
         """
-<<<<<<< HEAD
-        print("Here is person class information")
-        print("to check feature change")
-=======
         
->>>>>>> 80ef781f4bd545b7a5c32eff2d4a4de15129d4e6
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
-        
+        # resolved the conflict
 
     def birthday(self):
         """
