@@ -20,7 +20,11 @@ class Person:
         """
         Display the person's information.
         """
+<<<<<<< HEAD
         
+=======
+        print("Here is person class information")
+>>>>>>> 2ed53c52fb7f86ca69c0216cb2e0987117671c6f
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
         
